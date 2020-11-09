@@ -22,4 +22,9 @@ print("trying something new")
 print("my life sucks")
 
 
+print("never believe anyone ")
+
+print("life is hard wihtout goals")
+
+
 
